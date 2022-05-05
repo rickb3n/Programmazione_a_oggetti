@@ -1,0 +1,11 @@
+###### Database locale Archivi ######
+Sono presenti 2 archivi
+Data ultima modifica [gg|mm|aaaa]:7/8/2018~
+Ora ultima modifica [hh|mm|ss]:18,20,52~
+
+-> ARCHIVIO n° 1 [nome|n° elementi]:arch1,3~
+N° 1 LIBRO [ID|prezzo|dataA|titolo|tipo|autore|n°pagine]:5256,10.0,10,10,2010,titolol,tipol,autorel,120~
+N° 2 CD [ID|prezzo|dataA|NomeCD|autore|album|genere|NumCanzoni|durata]:7054,10.0,1,1,2010,nomecd,autorecd,albumcd,rock,20,60~
+N° 3 DVD [ID|prezzo|dataA|Film|tipo|autore|durata]:7853,12.0,1,1,2006,nomef,tipof,autoref,50~
+-> ARCHIVIO n° 2 [nome|n° elementi]:arcnew,1~
+N° 1 LIBRO [ID|prezzo|dataA|titolo|tipo|autore|n°pagine]:4805,60.0,10,10,2010,titolo,libro,autore,120~
