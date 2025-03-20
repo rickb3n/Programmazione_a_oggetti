@@ -14,7 +14,7 @@ Per rendere più affidabile il programma vengono gestite anche le eccezioni. Se 
 
 L’interfaccia utente è provvista di numerosi controlli per evitare casi particolari e interazioni non corrette. 
 
-[Tesina:](https://github.com/rickb3n/Programmazione_a_oggetti/blob/main/tesina.pdf)
+- 📜 **Tesina**: [tesina.pdf](https://github.com/rickb3n/Programmazione_a_oggetti/blob/main/tesina.pdf)
 
 ## Team di sviluppo:
  [Riccardo Beniamino](https://github.com/riccardobeniamino), 
