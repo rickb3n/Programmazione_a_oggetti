@@ -16,6 +16,8 @@ L’interfaccia utente è provvista di numerosi controlli per evitare casi parti
 
 - 📜 **Tesina**: [tesina.pdf](https://github.com/rickb3n/Programmazione_a_oggetti/blob/main/tesina.pdf)
 
+  ⭐ **Supporta il progetto**: Se questo repository ti è stato utile, lascia una **⭐ Star**! è gratis, pulsante in alto a destra.
+
 ## Team di sviluppo:
  [Riccardo Beniamino](https://github.com/riccardobeniamino), 
  [Simone Tacconi](https://github.com/tacconisimone)
