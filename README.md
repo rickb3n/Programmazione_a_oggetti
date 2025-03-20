@@ -1,4 +1,4 @@
-# ProgOggetti
+# Programmazione a gggetti
 Progetto software gestione archivi (Programmazione a oggetti DISIM UnivAQ)
 
 Sistema software per la gestione di archivi
@@ -13,6 +13,8 @@ Il programma usa un “database” su file di testo, per consentire all’utente
 Per rendere più affidabile il programma vengono gestite anche le eccezioni. Se per qualsiasi motivo il database è assente o danneggiato il programma non si blocca ma informa l’utente e consente di ripatire da una nuova sessione.
 
 L’interfaccia utente è provvista di numerosi controlli per evitare casi particolari e interazioni non corrette. 
+
+[Tesina:](https://github.com/rickb3n/Programmazione_a_oggetti/blob/main/tesina.pdf)
 
 ## Team di sviluppo:
  [Riccardo Beniamino](https://github.com/riccardobeniamino), 
